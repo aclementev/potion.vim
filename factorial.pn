@@ -1,0 +1,13 @@
+# This function calculates the factorial of the input "n"
+factorial = (n):
+    total = 1
+    n to 1 (i):
+        total *= i.
+    total.
+
+10 times (i):
+    i string print
+    '! is : ' print
+    factorial (i) string print
+    "\n" print.
+
