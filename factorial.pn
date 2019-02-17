@@ -1,7 +1,7 @@
-# This function calculates the factorial of the input "n"
-factorial = (n):
+factorial = (n): # This function calculates the factorial of n
     total = 1
     n to 1 (i):
+        # Multiply the running total.
         total *= i.
     total.
 
